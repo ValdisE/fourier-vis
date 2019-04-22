@@ -1,0 +1,28 @@
+{
+  "name": "fourier-vis",
+  "version": "1.0.0",
+  "description": "A visualization of Fourier Transform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValdisE/fourier-vis.git"
+  },
+  "keywords": [
+    "652011.com"
+  ],
+  "author": "Valdis Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValdisE/fourier-vis/issues"
+  },
+  "homepage": "https://github.com/ValdisE/fourier-vis#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
